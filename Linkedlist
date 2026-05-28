@@ -1,0 +1,12 @@
+//  concept of static ad non static(instance) 
+// static methods are the ones that can be accessed anywhere in the program 
+// and doesnt require the need of creating object 
+// while the instance are the ones that can be used only by creating object
+// the instance invloves both static and non static while in static methods 
+// only static can be used 
+// thing sthat  are common to many fall under static lets say we create a 
+// bank name the bank name will be common to all the users of the bank so bank name
+// will be static
+// while the  non static or the instance are the ones that vary from users to users 
+//  example the bank balance this varies from usere to user so this will
+// be non static  
